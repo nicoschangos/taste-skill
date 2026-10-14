@@ -11,3 +11,4 @@ output-skill: Prevents AI from being lazy, skipping code blocks, or using placeh
 minimalist-skill: Enforces clean, editorial-style interfaces (Notion/Linear style) with strict monochrome palettes.
 brutalist-skill: Raw mechanical interfaces, Swiss typography, extreme scale contrast. (Beta)
 stitch-skill: Google Stitch-compatible semantic design rules for premium AI UI generation.
+unified-frontend: One conflict-free frontend design skill merging Anti-Slop, impeccable, taste-skill, tastemaker, the interfaces better-* skills, landing-page-design, web-design-engineer and humanizer. Decision sheet derived from the brief, a precedence ladder that settles every contradiction, an accessibility floor, exact craft values, a static checker, and a ledger of the 38 conflicts it resolved.
